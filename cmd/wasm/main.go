@@ -5,5 +5,5 @@ import (
 )
 
 func main() {  
-    fmt.Println("Go Web Assembly !!!")
+    fmt.Println("Go Web Assembly Example !!!")
 }
